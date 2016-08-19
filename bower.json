@@ -1,0 +1,15 @@
+{
+    "name": "array.find-polyfill",
+    "homepage": "https://github.com/DasRed/js-array.find-polyfill",
+    "main": "Polyfill for Array.find if needed.",
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+    }
+}
