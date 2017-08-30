@@ -1,0 +1,16 @@
+{
+  "name": "array.find-polyfill",
+  "version": "1.0.2",
+  "description": "Polyfill for Array.find if needed.",
+  "main": "array.find.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DasRed/js-array.find-polyfill.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DasRed/js-array.find-polyfill/issues"
+  },
+  "homepage": "https://github.com/DasRed/js-array.find-polyfill#readme"
+}

@@ -4,6 +4,7 @@ Provides the js Array.prototyp.find function as polyfill. AMD, Module and Global
 # Install
 ```bash
 bower install array.find-polyfill --save
+npm install array.find-polyfill --save
 ```
 
 # Usage
